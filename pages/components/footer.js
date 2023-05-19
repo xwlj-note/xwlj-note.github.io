@@ -5,7 +5,7 @@ const Footer = () =>(
             <Link href="/" >
                 <a  style={{textDecoration: 'none'}} target="_blank"
                    rel="noopener noreferrer">
-                    Powered by xwlj888.cn
+                    Powered by xwlj.eu.org
                 </a>
             </Link>
         </footer>
